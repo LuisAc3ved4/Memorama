@@ -1,12 +1,20 @@
-# React + Vite
+# 🃏 Memorama
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Juego de memoria desarrollado con React y Vite.
 
-Currently, two official plugins are available:
+## Cómo ejecutarlo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+git clone https://github.com/LuisAc3ved4/Memorama.git
+cd Memorama
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+## Tecnologías
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React · Vite · JavaScript · CSS
+
+## Autor
+
+Luis Gabriel Acevedo Hernández · [@LuisAc3ved4](https://github.com/LuisAc3ved4)
